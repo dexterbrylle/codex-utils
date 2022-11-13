@@ -1,11 +1,11 @@
 {
-  "name": "vite-electron-builder",
-  "description": "Secure boilerplate for Electron app based on Vite",
+  "name": "Codex Utils",
+  "description": "A collection of utils",
   "private": true,
   "author": {
-    "email": "kozackunisoft@gmail.com",
-    "name": "Alex Kozack",
-    "url": "https://kozack.me"
+    "email": "dexterbrylle@users.noreply.github.com",
+    "name": "Dexter Brylle",
+    "url": "https://dexterbrylle.xyz"
   },
   "main": "packages/main/dist/index.cjs",
   "scripts": {
